@@ -44,6 +44,7 @@ Then connect the digital pin 2 of Arduino to the D7 of LCD module.
 And finally connect the 3.3V of Arduino to the A of LCD which is the anode of backlight LED.
 
 
+-------------------------------------------------------
 **Also the data sheet is in Docs**
 
 
