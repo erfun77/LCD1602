@@ -45,7 +45,7 @@ And finally connect the 3.3V of Arduino to the A of LCD which is the anode of ba
 
 
 -------------------------------------------------------
-**Also the data sheet is in Docs**
+**If you needed more information about this module, you can check data sheet in Docs.**
 
 
 
